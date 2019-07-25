@@ -1,7 +1,7 @@
 {
   "name": "donshi",
   "version": "1.0.0",
-  "description": "",
+  "description": "<h1>東勢人報天氣</h1>",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,5 +12,17 @@
     "axios": "^0.19.0",
     "minimist": "^1.2.0",
     "ora": "^3.4.0"
-  }
+  },
+  "bin": {
+    "donshi": "donshi.js"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jameswilson7788/donshi.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Jameswilson7788/donshi/issues"
+  },
+  "homepage": "https://github.com/Jameswilson7788/donshi#readme"
 }
