@@ -1,6 +1,6 @@
 {
   "name": "donshi",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "<h1>東勢人報天氣</h1>",
   "main": "index.js",
   "scripts": {
