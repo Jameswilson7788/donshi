@@ -6,6 +6,8 @@
 
 <code>cd donshi</code>
 
+<code>npm install</code>
+
 取得今天東勢的溫度。
 <code>npm start today</code>
 
