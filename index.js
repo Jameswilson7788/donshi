@@ -11,8 +11,11 @@ module.exports = () => {
             require('./cmds/week')(args)
             break
         case "help":
-            require('./cmds/help.js')(args)
+            require('./cmds/help')(args)
             break
+        case "express":
+            require('./express')(args)
+            break  
         default:
             require('./cmds/help.js')(args)
     }
